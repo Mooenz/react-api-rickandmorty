@@ -1,0 +1,13 @@
+.icon-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.icon__success {
+  display: inline-block;
+  height: 0.5rem;
+  width: 0.5rem;
+  margin-right: 0.375rem;
+  border-radius: 50%;
+}
