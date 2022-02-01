@@ -36,7 +36,7 @@ const Formulario = ({ setPersonaje }) => {
         value={nombre}
         onChange={handleChange}
       />
-      <button type="submit" className="btn btn-info">
+      <button type="submit" className="btn btn-info fw-bold">
         Buscar
       </button>
     </form>
